@@ -1,3 +1,3 @@
 # pleasefix
 
-Problem is the ellipse draw file, located in graphics.draw.ellipse
+Problem is the ellipse draw file, located in mygui.graphics.draw.ellipse
